@@ -10,11 +10,11 @@ Visualisasi interaktif tentang dampak perubahan iklim pada pertanian menggunakan
 
 ## Mata Kuliah
 
-KOM1304 - Grafika Komputer dan Visualisasi 
-Paralel K3
-Program Studi Ilmu Komputer
-Sekolah Sains Data, Matematika, dan Informatika
-Institut Pertanian Bogor
+- KOM1304 - Grafika Komputer dan Visualisasi 
+- Paralel K3
+- Program Studi Ilmu Komputer
+- Sekolah Sains Data, Matematika, dan Informatika
+- Institut Pertanian Bogor
 
 ## Ringkasan
 
