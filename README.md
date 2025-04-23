@@ -3,20 +3,18 @@
 Visualisasi interaktif tentang dampak perubahan iklim pada pertanian menggunakan D3.js dan Plotly.
 
 ## Anggota Kelompok 1 - K3
+
 1. Insan Anshary Rasul - G6401231132
 2. Fauzan Arif Tricahya - G6401231040
 3. Salma Putri Hanifah - G6401231010
 
 ## Mata Kuliah
+
 KOM1304 - Grafika Komputer dan Visualisasi 
-
 Paralel K3
-
 Program Studi Ilmu Komputer
-
 Sekolah Sains Data, Matematika, dan Informatika
-
-Institut Pertanian Bogorgit config 
+Institut Pertanian Bogor
 
 ## Ringkasan
 
